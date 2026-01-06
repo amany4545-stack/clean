@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coruscating-pudding-71da21.netlify.app/sitemap.xml
